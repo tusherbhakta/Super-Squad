@@ -1,0 +1,138 @@
+[
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "role": "Batsman",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 50000,
+      "imageURL": "https://i.ibb.co/FhxtVSK/IMAGE-1670670800.jpg"
+    },
+    {
+      "playerId": 2,
+      "name": "Ben Stokes",
+      "country": "England",
+      "role": "All-rounder",
+      "battingStyle": "Left-hand Bat",
+      "biddingPrice": 55000,
+      "imageURL": "https://i.ibb.co/56wSKNQ/ben-stokes-in-light-blue-uniform-4kjht8xstu2eveb2.jpg"
+    },
+    {
+      "playerId": 3,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "role": "Batsman",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 70000,
+      "imageURL": "https://i.ibb.co/bXSXGCV/Getty-Images-2014197776-1.jpg"
+    },
+    {
+      "playerId": 4,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "role": "Bowler",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 95000,
+      "imageURL": "https://i.ibb.co/WfpWTcV/2-61.jpg"
+    },
+    {
+      "playerId": 5,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "role": "Bowler",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 90000,
+      "imageURL": "https://i.ibb.co/Vp8Ywwk/8b2ac36f211005d0773533a9f15349fd.jpg"
+    },
+    {
+      "playerId": 6,
+      "name": "David Warner",
+      "country": "Australia",
+      "role": "Batsman",
+      "battingStyle": "Left-hand Bat",
+      "biddingPrice": 85000,
+      "imageURL": "https://i.ibb.co/VQbpmFN/warner-player-of-the-tournamen-0-1200x768-1-1.jpg"
+    },
+    {
+      "playerId": 7,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "role": "Bowler",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 100000,
+      "imageURL": "https://i.ibb.co/GQ1FNzY/boult-wc1691656994139.jpg"
+    },
+    {
+      "playerId": 8,
+      "name": "Joe Root",
+      "country": "England",
+      "role": "Batsman",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 75000,
+      "imageURL": "https://i.ibb.co/gvF2XBg/UsgAIOc.jpg"
+    },
+    {
+      "playerId": 9,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "role": "Wicketkeeper",
+      "battingStyle": "Left-hand Bat",
+      "biddingPrice": 80000,
+      "imageURL": "https://i.ibb.co/cDy0yrY/quinton-de-kock-1700197834548-original.jpg"
+    },
+    {
+      "playerId": 10,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "role": "Bowler",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 65000,
+      "imageURL": "https://i.ibb.co/JzhtK94/26184210181bb48.jpg"
+    },
+    {
+      "playerId": 11,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "role": "All-rounder",
+      "battingStyle": "Left-hand Bat",
+      "biddingPrice": 60000,
+      "imageURL": "https://i.ibb.co/hXb2pZm/shakib-al-hasan-smiling-8olow941lckcha6b.jpg"
+    },
+    {
+      "playerId": 12,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "role": "Batsman",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 55000,
+      "imageURL": "https://i.ibb.co/cQ0b4xG/Untitled-design.jpg"
+    },
+    {
+      "playerId": 18,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "role": "Bowler",
+      "battingStyle": "Left-hand Bat",
+      "biddingPrice": 80000,
+      "imageURL": "https://i.ibb.co/fqYwKCB/CRICKET-AUS-ZIM-16-1662185254028-1662185254028-1662185398002-1662185398002.webp"
+    },
+    {
+      "playerId": 16,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "role": "All-rounder",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 75000,
+      "imageURL": "https://i.ibb.co/gSbfqTX/A-RUSSEL-COVER.webp"
+    },
+    {
+      "playerId": 17,
+      "name": "Jos Buttler",
+      "country": "England",
+      "role": "Wicketkeeper",
+      "battingStyle": "Right-hand Bat",
+      "biddingPrice": 85000,
+      "imageURL": "https://i.ibb.co/xsLwn86/jos-butlr.jpg"
+    }
+  ]
+  
